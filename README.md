@@ -1,5 +1,6 @@
 # 14 Days of SQL Mastery
-![image](https://github.com/user-attachments/assets/46ebb682-a582-4257-98a9-979c00e6f002)
+![image](https://github.com/user-attachments/assets/53975ffb-1f46-4816-a0ee-906dace09d23)
+
 
 ## Introduction
 Welcome to **14 Days of SQL Mastery**! This structured learning journey will help you master SQL in just two weeks, covering fundamental to advanced queries with hands-on practice.
