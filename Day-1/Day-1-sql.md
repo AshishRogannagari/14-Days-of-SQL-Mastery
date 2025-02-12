@@ -1,5 +1,7 @@
 # SQL Practice: Mastering Essential Queries
 
+![image](https://github.com/user-attachments/assets/d5640315-4cc1-4377-802c-2e665721445b)
+
 ## Introduction
 Structured Query Language (SQL) is a powerful tool used to interact with relational databases. This repository contains SQL queries to help you practice and understand different SQL operations. 
 
@@ -15,6 +17,21 @@ We will focus on different categories of SQL operations, including:
 
 ## **Setting Up the Database**
 
+Structure of the Employees Table
+Department ID
+Employee ID
+Identifies the employee's department
+A unique identifier for each employee
+Hire Date
+First Name
+The date when the employee was hired
+The employee's first name
+Salary
+Last Name
+The employee's salary in decimal format
+The employee's last name![image](https://github.com/user-attachments/assets/ecf3a304-14a7-43b4-9eeb-a480f49253ff)
+
+
 ### **1️⃣ Creating the Employees Table**
 ```sql
 CREATE TABLE employees (
@@ -27,6 +44,18 @@ CREATE TABLE employees (
     managerid INT
 );
 ```
+Employee Records
+Employee Name
+Salary
+Hire Date
+Department ID
+Manager ID
+The annual salary of each employee.
+The date when each employee was hired.
+The identifier for the manager of each employee.
+The first and last names of employees.
+The identifier for the department each employee belongs to.![image](https://github.com/user-attachments/assets/0d707e41-eb33-4fd3-978e-32509c6a8d38)
+
 
 ### **2️⃣ Inserting Sample Data**
 ```sql
